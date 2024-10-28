@@ -21,17 +21,17 @@ This is a RESTful API for managing personnel assignments to construction project
 **Installation**
 1) Clone the Repository:
 
-    1)``` git clone https://github.com/tabishmomin415/Personnel-Dispatching-API_Task-1.git
-    2)``` cd Personnel-Dispatching-API_Task-1
+    1)``` git clone https://github.com/tabishmomin415/Personnel-Dispatching-API_Task-1.git ```
+    2)``` cd Personnel-Dispatching-API_Task-1 ```
 
 2) Set Up Virtual Environment:
 
     1) Install Virtual Environment:
-       ```pip install virtualenv  
+       ```pip install virtualenv ``` 
     2) create a virtual environment named env:
-       ```virtualenv env
+       ```virtualenv env```
     3) Activate the Virtual Environment:
-       ```.\env\Scripts\Activate.ps1
+       ```.\env\Scripts\Activate.ps1```
 
 4) Install Dependencies:
 
