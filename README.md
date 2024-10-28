@@ -3,6 +3,7 @@
 This is a RESTful API for managing personnel assignments to construction projects. It allows users to create, retrieve, update, and delete personnel assignments for various projects.
 
 **Features**
+
 1) Create a new personnel assignment.
 2) Retrieve a list of all assignments or filter assignments by specific project.
 3) Retrieve a specific assignment by ID.
@@ -10,12 +11,17 @@ This is a RESTful API for managing personnel assignments to construction project
 5) Delete an assignment.
 
 **Technology Stack**
+
 1)Flask - Web framework for Python.
+
 2)Flask-SQLAlchemy - ORM for database interaction.
+
 3)SQLite - Database for local data storage.
 
 **Requirements**
+
 1)Python 3.7 or later
+
 2)Flask and Flask-SQLAlchemy packages
 
 **Installation**
