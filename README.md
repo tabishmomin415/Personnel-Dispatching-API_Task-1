@@ -22,9 +22,10 @@ This is a RESTful API for managing personnel assignments to construction project
 1) Clone the Repository:
 
     1)``` git clone https://github.com/tabishmomin415/Personnel-Dispatching-API_Task-1.git ```
+   
     2)``` cd Personnel-Dispatching-API_Task-1 ```
 
-2) Set Up Virtual Environment:
+3) Set Up Virtual Environment:
 
     1) Install Virtual Environment:
        ```pip install virtualenv ``` 
