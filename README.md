@@ -42,7 +42,7 @@ This is a RESTful API for managing personnel assignments to construction project
 
 4) Install Dependencies:
 
-    pip install -r requirements.txt
+    ```pip install -r requirements.txt```
 
 5) Create the SQLite Database: The database will be created automatically on the first run.
 
