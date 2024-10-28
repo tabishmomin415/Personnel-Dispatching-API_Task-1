@@ -10,31 +10,34 @@ This is a RESTful API for managing personnel assignments to construction project
 5) Delete an assignment.
 
 **Technology Stack**
-Flask - Web framework for Python.
-Flask-SQLAlchemy - ORM for database interaction.
-SQLite - Database for local data storage.
+1)Flask - Web framework for Python.
+2)Flask-SQLAlchemy - ORM for database interaction.
+3)SQLite - Database for local data storage.
 
 **Requirements**
-Python 3.7 or later
-Flask and Flask-SQLAlchemy packages
+1)Python 3.7 or later
+2)Flask and Flask-SQLAlchemy packages
 
 **Installation**
 1) Clone the Repository:
 
-    git clone https://github.com/tabishmomin415/Personnel-Dispatching-API_Task-1.git
-    cd Personnel-Dispatching-API_Task-1
+    1) git clone https://github.com/tabishmomin415/Personnel-Dispatching-API_Task-1.git
+    2) cd Personnel-Dispatching-API_Task-1
 
 2) Set Up Virtual Environment:
 
-    Install Virtual Environment: pip install virtualenv  
-    create a virtual environment named env: virtualenv env
-    Activate the Virtual Environment: .\env\Scripts\Activate.ps1
+    1) Install Virtual Environment:
+       pip install virtualenv  
+    2) create a virtual environment named env:
+       virtualenv env
+    3) Activate the Virtual Environment:
+       .\env\Scripts\Activate.ps1
 
-3) Install Dependencies:
+4) Install Dependencies:
 
     pip install -r requirements.txt
 
-4) Create the SQLite Database: The database will be created automatically on the first run.
+5) Create the SQLite Database: The database will be created automatically on the first run.
 
 **Run the Application**
     
