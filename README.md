@@ -12,24 +12,24 @@ This is a RESTful API for managing personnel assignments to construction project
 
 **Technology Stack**
 
-1)Flask - Web framework for Python.
+1) Flask - Web framework for Python.
 
-2)Flask-SQLAlchemy - ORM for database interaction.
+2) Flask-SQLAlchemy - ORM for database interaction.
 
-3)SQLite - Database for local data storage.
+3) SQLite - Database for local data storage.
 
 **Requirements**
 
-1)Python 3.7 or later
+1) Python 3.7 or later
 
-2)Flask and Flask-SQLAlchemy packages
+2) Flask and Flask-SQLAlchemy packages
 
 **Installation**
 1) Clone the Repository:
 
-    1)``` git clone https://github.com/tabishmomin415/Personnel-Dispatching-API_Task-1.git ```
+    1) ``` git clone https://github.com/tabishmomin415/Personnel-Dispatching-API_Task-1.git ```
    
-    2)``` cd Personnel-Dispatching-API_Task-1 ```
+    2) ``` cd Personnel-Dispatching-API_Task-1 ```
 
 3) Set Up Virtual Environment:
 
